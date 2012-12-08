@@ -7,7 +7,7 @@ public class Block
   //variables needed for the identification fase
   private String Method;
   private int MethodType, MethodId;
-  //variables needed for the implementation page
+  //variables needed for the implementation fase
   private ImageIcon blockImage;
   private int nextMethodId;
   private double posX, posY;
